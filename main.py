@@ -17,7 +17,7 @@ print("Size:", size)
 if T_size < gb:
     print("Space is running out")
     print("notifing people in organisation")
-    es.email_with_attachhment('HemantDhanwar@lucidmotors.com', 'D:\\H_Work_SPACE\\key.txt', 'HemantDhanwar@lucidmotors.com,SathyaMadhu@lucidmotors.com', 'D:\\')
+    #es.email_with_attachhment('HemantDhanwar@lucidmotors.com', 'D:\\H_Work_SPACE\\key.txt', 'HemantDhanwar@lucidmotors.com,SathyaMadhu@lucidmotors.com', 'D:\\')
 else:
     print("space is good to go")
 
